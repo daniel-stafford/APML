@@ -1,6 +1,7 @@
 name: APML
 channels:
-  - defaults
+  - conda-forge
+  - nodefaults
 dependencies:
   - tensorflow
   - numba
