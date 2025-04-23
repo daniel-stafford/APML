@@ -5,8 +5,8 @@ Find here the course material for the advanced course on Python programming and 
 Do you want to immediately dive into the course material? Check out [Renku lab](https://renkulab.io/v2/projects/samarinm/apml) and click "Launch" to run the notebooks without any installation!
 
 <p align="center">
-    <a href="https://renkulab.io/v2/projects/samarinm/python-crash-course">
-        <img src="Notebooks/images/renku.jpg" alt="Description of Image" width="200" class="center-img">
+    <a href="https://renkulab.io/v2/projects/samarinm/apml">
+        <img src="Notebooks/images/renku.jpg" width="200" class="center-img">
     </a>
 </p>
 
