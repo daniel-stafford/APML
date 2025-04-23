@@ -1,9 +1,15 @@
 # Advanced Python and Machine Learning
 
-This repository provides educational materials for the advanced course on Python programming and Machine Learning (5th, 6th, 12th, and 13th of May 2024) offered in the Transferable Skills programme at the University of Basel. The course covers concepts and techniques in Python programming, as well as the implementation of common Machine Learning algorithms. 
+Find here the course material for the advanced course on Python programming and Machine Learning (5th, 6th, 12th, and 13th of May 2025) offered in the Transferable Skills programme ([course description](https://fortbildung.unibas.ch/courses/organizer/scientific-tools/advanced-python-and-machine-learning-300461) of the University of Basel.
 
+Do you want to immediately dive into the course material? Check out [Renku lab](https://renkulab.io/v2/projects/samarinm/apml) and click "Launch" to run the notebooks without any installation!
 
-Find the course description in the programme of [Transferable Skills](https://fortbildung.unibas.ch/courses/organizer/scientific-tools/advanced-python-and-machine-learning-300461). 
+<p align="center">
+    <a href="https://renkulab.io/v2/projects/samarinm/python-crash-course">
+        <img src="Notebooks/images/renku.jpg" alt="Description of Image" width="200" class="center-img">
+    </a>
+</p>
+
 
 ## Updates
 
