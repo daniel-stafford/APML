@@ -1,4 +1,4 @@
-name: APMLx
+name: APML
 channels:
   - conda-forge
   - defaults
