@@ -13,7 +13,8 @@ Do you want to immediately dive into the course material? Check out [Renku lab](
 
 ## Updates
 
-* *Friday, 2nd May: Course material of first week to be uploaded*.
+* Sunday, 4th May: Upload course material of first week and assignments.
+* *Monday, 6th May: Upload adjusted course material and solutions of first day.*
 
 
 ## Set up Python
