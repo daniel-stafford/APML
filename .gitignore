@@ -16,6 +16,7 @@
 !/Notebooks/2-Regression_and_Classification.ipynb
 !/Notebooks/3-Dim_Reduction_Clustering.ipynb
 !/Notebooks/4-Kernel_Methods.ipynb
+!/Notebooks/Class_*
 !/Assignments
 /Assignments/*
 /Assignments/.DS_Store
