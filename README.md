@@ -24,16 +24,16 @@ In order to set up Python on your own machine, we recommend using [Anaconda](htt
 
 If you are more advanced and/or Anaconda is already set up on your machine, you can create the course environment with the necessary libraries through the following two steps.
 
-1. Install the `libmamba` solver (in the `base` environment`). This can significantly speed up the creation of new conda environments. Do this with the following command in your terminal:
+1. Install `mamba` (in the `base` environment`). This can significantly speed up the creation of new conda environments. Do this with the following command in your terminal:
 
 ```
-conda install -n base conda-libmamba-solver
+conda install mamba
 ```
 
-2. Set up the new environment `APML` by running the following command in your terminal (which makes use of `libmamba`):
+2. Set up the new environment `APML` by running the following command in your terminal:
 
 ```
-conda env create -f environment.yml --solver=libmamba
+mamba env create -f environment.yml
 ``` 
 
 Now, you can activate the environment via

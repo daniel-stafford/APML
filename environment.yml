@@ -1,9 +1,9 @@
 name: APML
 channels:
   - conda-forge
-  - defaults
+  - nodefaults
 dependencies:
-  - tensorflow-gpu
+  - tensorflow-gpu=2.12.0
   - numba
   - scikit-learn
   - pandas
