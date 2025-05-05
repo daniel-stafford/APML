@@ -3,7 +3,6 @@ channels:
   - conda-forge
   - nodefaults
 dependencies:
-  - tensorflow-gpu
   - numba
   - scikit-learn
   - pandas
@@ -13,5 +12,6 @@ dependencies:
   - xarray
   - pip
   - pip:
+    - tensorflow[and-cuda]==2.12
     - deepsmiles
     - rdkit
