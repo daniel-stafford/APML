@@ -27,7 +27,7 @@ If you are more advanced and/or Anaconda is already set up on your machine, you 
 1. Install `mamba` (in the `base` environment). This can significantly speed up the creation of new conda environments. Do this with the following command in your terminal:
 
 ```
-conda install mamba
+conda install conda-forge::mamba
 ```
 
 2. Set up the new environment `APML` by running the following command in your terminal:
