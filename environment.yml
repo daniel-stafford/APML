@@ -1,7 +1,7 @@
 name: APML
 channels:
   - conda-forge
-  - defaults
+  - nodefaults
 dependencies:
   - python=3.11.5
   - numba
@@ -13,6 +13,6 @@ dependencies:
   - xarray
   - pip
   - pip:
-    - tensorflow==2.12
+    - tensorflow[and-cuda]==2.12
     - deepsmiles
     - rdkit
