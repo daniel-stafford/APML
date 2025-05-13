@@ -2,6 +2,8 @@
 !*.gitignore
 !README.md
 !environment.yml
+!APML_FS25.pdf
+!PDF_Notebooks.pdf
 !/Notebooks
 /Notebooks/*
 !/Notebooks/images/
@@ -22,6 +24,7 @@
 !/Notebooks/5-Neural_Networks.ipynb
 !/Notebooks/6-VAE.ipynb
 !/Notebooks/7-Image_Segmentation.ipynb
+!/Notebooks/8-Download_your_Notebooks.ipynb
 !/Notebooks/Class_*
 !/Assignments
 /Assignments/*
@@ -36,3 +39,4 @@
 !/Assignments/A1-Python.ipynb
 !/Assignments/A2-Earshell_Analysis.ipynb
 !/Assignments/A3-Finance_PCA_Clustering.ipynb
+!/Assignments/A4-Fashion_VAE.ipynb
