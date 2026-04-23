@@ -1,6 +1,6 @@
 # Advanced Python and Machine Learning
 
-Find here the course material for the advanced course on Python programming and Machine Learning (5th, 6th, 12th, and 13th of May 2025) offered in the Transferable Skills programme ([course description](https://fortbildung.unibas.ch/courses/organizer/scientific-tools/advanced-python-and-machine-learning-300461) of the University of Basel.
+Find here the course material for the advanced course on Python programming and Machine Learning (11th, 12th, 18th, and 19th of May 2026) offered in the Transferable Skills programme ([course description](https://fortbildung.unibas.ch/courses/topics/dissertation/advanced-python-and-machine-learning-302418) of the University of Basel.
 
 Do you want to immediately dive into the course material? Check out [Renku lab](https://renkulab.io/v2/projects/samarinm/apml) and click "Launch" to run the notebooks without any installation!
 
@@ -13,12 +13,7 @@ Do you want to immediately dive into the course material? Check out [Renku lab](
 
 ## Updates
 
-* Sunday, 4th May: Upload course material of first week and assignments.
-* Monday, 5th May: Upload adjusted course material and solutions of first day.
-* Tuesday, 6th May: Upload adjusted course material and solutions of second day.
-* Friday, 9th May: Upload course material of second week.
-* Monday, 12th May: Upload adjusted course material and solutions of third day.
-* Tuesday, 13th May: Final upload of all course material after last course day.
+* *Friday, 8th May: Upload course material of first week and assignments.*
 
 ## Set up Python
 
