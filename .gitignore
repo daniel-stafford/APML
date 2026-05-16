@@ -11,10 +11,16 @@
 !/Notebooks/data/
 /Notebooks/data/.DS_Store
 /Notebooks/data/.ipynb_checkpoints/*
+!/Notebooks/output/
+/Notebooks/output/.DS_Store
+/Notebooks/output/.ipynb_checkpoints/*
 !/Notebooks/0-Introduction.ipynb
 !/Notebooks/1-Functions_and_Classes.ipynb
 !/Notebooks/2-Python_Concepts.ipynb
 !/Notebooks/3-Regression_and_Classification.ipynb
 !/Notebooks/4-Dim_Reduction_Clustering.ipynb
 !/Notebooks/5-Kernel_Methods.ipynb
+!/Notebooks/6-Neural_Networks.ipynb
+!/Notebooks/7-VAE.ipynb
+!/Notebooks/8-Transformers.ipynb
 !/Notebooks/Class_*
