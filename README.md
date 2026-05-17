@@ -17,7 +17,8 @@ Do you want to immediately dive into the course material? Check out [Renku lab](
 * Monday, 11th May: Upload updated course material after first course day.
 * Tuesday, 12th May: Upload updated course material after second course day.
 * Saturday, 16th May: Upload course material of second week.
-* *Sunday, 17th May: Upload assignments.*
+* Sunday, 17th May: Upload assignments.
+* *Monday, 18th May: Upload updated course material after third course day.*
 
 ## Set up Python
 
